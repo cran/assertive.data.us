@@ -1,0 +1,13 @@
+21656199d9952076e528967c50529d3c *DESCRIPTION
+a6c111614f209424e8b7f4ec95c3f90c *NAMESPACE
+63f057d5ff828405872d8d58e2f83256 *NEWS
+1a33aeb8ec102b2d3e3b9db0b5d45789 *R/assert-is-data-us.R
+c97d77cd2fd567faeb460048e33fdcda *R/imports.R
+5b649896bac7f2dae2459d594a941b08 *R/is-data-us.R
+205fbf08df2fe88d04232cc5c8f642a4 *README.md
+0a2f83dd44b7812636f53b6dfb9d1a98 *man/is_us_social_security_number.Rd
+efcd5355742675354af33e0c0a954394 *man/is_us_telephone_number.Rd
+dfc9608b84c43df885208f3214f29047 *man/is_us_zip_code.Rd
+1ce980ebda0e91c1d38460335d4316ab *po/R-assertive.data.us.pot
+c7c7f7a154029ce98e43d15184365870 *tests/testthat.R
+05896f24b88e2f51a9eefb0486a7e1b7 *tests/testthat/test-is-data-us.R
